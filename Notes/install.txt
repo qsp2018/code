@@ -1,0 +1,29 @@
+---- Python ---- 
+
+
+Install 
+https://www.python.org/ftp/python/2.7.13/python-2.7.13-macosx10.6.pkg
+
+Install packages: 
+pip install numpy==1.10.4
+
+or install all packages from a file:
+pip install -r packages.txt 
+numpy==1.10.4
+pandas==0.20.3
+sklearn-pandas==1.6.0
+...
+
+
+Jupyter
+http://jupyter.org/install.html
+python -m pip install --upgrade pip
+python -m pip install jupyter
+jupyter notebook
+
+
+---- R ---- 
+common packages:
+caroline,magrittr,data.table,reshape2,randomForest,inTrees,testthat,purrr,aws.s3,argparse,tidyr,rmarkdown,glmnet,ggplot2,sendmailR,lattice
+
+
